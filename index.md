@@ -1,3 +1,6 @@
+# Team Representatives:
+Chelsea Villard, Chelsey Beck, Alex Choi
+
 ## Problem Introduction:
 With in-person instruction being the main way of registering for classes for students. 
 Many students have been facing a difficulty when it comes to registration due to the lack of information provided on classes upfront specifically with class locations. This is an issue that not only impacts students, but instructors as well proving to make some commutes to certain classes inflexbile for certain students and a disturbance for instructors who wish to have a steady pacing for classes. 
