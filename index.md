@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## Problem Introduction:
+With in-person instruction being the main way of registering for classes for students. 
+Many students have been facing a difficulty when it comes to registration due to the lack of information provided on classes upfront specifically with class locations. This is an issue that not only impacts students, but instructors as well proving to make some commutes to certain classes inflexbile for certain students and a disturbance for instructors who wish to have a steady pacing for classes. 
 
-You can use the [editor on GitHub](https://github.com/cav90839/C.A.C/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Useful links: 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+These links provide further evidence supporting the main problem our team faces and provides evidence that further explains the issues we have identified in class registration.
 
 ```markdown
 Syntax highlighted code block
