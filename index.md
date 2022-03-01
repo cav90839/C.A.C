@@ -9,8 +9,7 @@ Many students have been facing a difficulty when it comes to registration due to
 
 This links provides further details and evidence that we have gathered as a team supporting our claim and showcasing how much of a significant role the class location can play when it comes to in-class registration.
 
-
 # Milestone links
-[Link](https://drive.google.com/drive/folders/1QgD6KOjKETpPqgwAkgjsDlSb23wbxzrZ)
+[Milestone 2](https://drive.google.com/drive/folders/1QgD6KOjKETpPqgwAkgjsDlSb23wbxzrZ)
 
 
