@@ -12,6 +12,6 @@ This links provides further details and evidence that we have gathered as a team
 ```markdown
 
 # Milestone links
-[https://drive.google.com/drive/folders/1QgD6KOjKETpPqgwAkgjsDlSb23wbxzrZ]
+[Link](https://drive.google.com/drive/folders/1QgD6KOjKETpPqgwAkgjsDlSb23wbxzrZ)
 
 
