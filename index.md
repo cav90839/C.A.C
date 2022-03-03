@@ -9,6 +9,6 @@ face-to-face instruction is a direct means for students to be able to receive a 
 
 These links will provide further details and evidence that we have gathered as a team supporting our claim and showcasing how much of a significant role the class location can play when it comes to in-class registration.
 
-[Milestone 2](https://drive.google.com/drive/folders/1QgD6KOjKETpPqgwAkgjsDlSb23wbxzrZ)
+[Milestone 2](https://github.com/cav90839/Milestone-2/blob/gh-pages/index.md)
 
 
