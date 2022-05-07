@@ -12,5 +12,5 @@ We proposed user experience requirements into three different user experiences. 
 These links will provide further details and evidence that we have gathered as a team supporting our claim and showcasing how much of a significant role the class location can play when it comes to in-class registration.
 
 [Milestone 2](https://cav90839.github.io/Milestone-2/)<br />
-[Milestone 3](https://cav90839.github.io//Milestone-3/)
+[Milestone 3](https://cav90839.github.io//Milestone-3/)<br />
 [Milestone 4](http://cav90839.github.io//Milestone-4/)
