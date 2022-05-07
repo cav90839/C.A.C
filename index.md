@@ -7,6 +7,8 @@ Face-to-face instruction is a direct means for students to be able to receive a 
 
 We proposed user experience requirements into three different user experiences. After analyzing the relevant cases, we made an ideation and preliminary design for each one. These preliminary designs are low fidelity wireframes on different ideas to solve each specific user story. Once we picked out the best ideas for each low-fidelity wireframe, we went into more detail on our designs and decided on what could be added or removed to improve the designs. We hope you enjoy.
 
+We have designed three prototypes based on our user stories. Our solutions were to make a mapping system during registration, make an option for students to type in or select a desired commute time between classes, and make an alternative option for students to travel around campus through a rental of micromobility devices. The user should be able to click through our prototypes and experience their functionalities. We also planned out testing protocols so that we can be sure that we achieve our goal of proposing a solution to each user story. We decided that surveys, focus groups, and observation based studies would be the most adequate for testing improvement in student experience. 
+
 ### Milestone links
 
 These links will provide further details and evidence that we have gathered as a team supporting our claim and showcasing how much of a significant role the class location can play when it comes to in-class registration.
